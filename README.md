@@ -11,7 +11,7 @@
 
 ### Profile Summery
 *	A result-oriented professional experience in application development using Microsoft technologies. Currently working as Freelancer.
-*	Designed, developed, and maintained 5 products from scratch of a start up company (ESGAUGE) that make 100% of company’s portfolio
+*	Designed, developed, and maintained 5 products from scratch of a start up company https://esgauge.com  that make 100% of company’s portfolio
 *	Led the only technical team, with a total strength of 6 including 2 senior developers, building large scale enterprise product line including production tools.
 *	Primary responsibilities include technical direction on building highly customer focused and large-scale software components, overseeing agile software development process, working with various stakeholders on requirement/design/integration of software components, addressing customer issues/escalations and last but not the least, providing production support to existing systems.
 *	Actively involved and lead product, technical architecture, strategic and executive leadership planning decisions for the group, including customer and partner engagements that fuel product adoption and help build long term strategy for the service. 
