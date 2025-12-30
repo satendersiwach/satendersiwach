@@ -3,7 +3,7 @@
 #### Working as Freelancer | Experience in application development | C#, ASP.NET MVC5, ASP.NET Core MVC, ASP.NET Web API, Entity Framework, SQL Server, HTML, CSS, Bootstrap, JavaScrip, JQuery, Angular
 
 ### Connect with me
-### [![Linkedin](https://user-images.githubusercontent.com/54549934/93971146-24552f80-fd8d-11ea-9afb-d114a8ed7ba2.png)](https://www.linkedin.com/in/satender-siwach-1632772a/) [![Twitter](https://user-images.githubusercontent.com/54549934/93971135-20c1a880-fd8d-11ea-93ea-7b421d8f4d6a.png)](https://twitter.com/satendersiwach) 
+### [![Linkedin](https://user-images.githubusercontent.com/54549934/93971146-24552f80-fd8d-11ea-9afb-d114a8ed7ba2.png)](https://www.linkedin.com/in/satender-singh-1632772a/) [![Twitter](https://user-images.githubusercontent.com/54549934/93971135-20c1a880-fd8d-11ea-93ea-7b421d8f4d6a.png)](https://twitter.com/satendersiwach) 
 
 ### Tools and Technology
 
